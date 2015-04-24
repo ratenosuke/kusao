@@ -13,6 +13,8 @@
 		3FE6C2641AEA500600A87CAD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE6C2631AEA500600A87CAD /* Images.xcassets */; };
 		3FE6C2671AEA500600A87CAD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FE6C2651AEA500600A87CAD /* LaunchScreen.xib */; };
 		3FE6C2731AEA500700A87CAD /* hasiokusasiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE6C2721AEA500700A87CAD /* hasiokusasiTests.swift */; };
+		3FE6C27D1AEA534C00A87CAD /* IMG_0560.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FE6C27C1AEA534C00A87CAD /* IMG_0560.png */; };
+		3FE6C27F1AEA5D6100A87CAD /* 20080421135140.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FE6C27E1AEA5D6100A87CAD /* 20080421135140.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		3FE6C26C1AEA500700A87CAD /* hasiokusasiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hasiokusasiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE6C2711AEA500700A87CAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FE6C2721AEA500700A87CAD /* hasiokusasiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hasiokusasiTests.swift; sourceTree = "<group>"; };
+		3FE6C27C1AEA534C00A87CAD /* IMG_0560.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0560.png; sourceTree = "<group>"; };
+		3FE6C27E1AEA5D6100A87CAD /* 20080421135140.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20080421135140.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				3FE6C2591AEA500600A87CAD /* hasiokusasi */,
 				3FE6C26F1AEA500700A87CAD /* hasiokusasiTests */,
 				3FE6C2581AEA500600A87CAD /* Products */,
+				3FE6C27C1AEA534C00A87CAD /* IMG_0560.png */,
+				3FE6C27E1AEA5D6100A87CAD /* 20080421135140.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FE6C27F1AEA5D6100A87CAD /* 20080421135140.jpg in Resources */,
 				3FE6C2621AEA500600A87CAD /* Main.storyboard in Resources */,
 				3FE6C2671AEA500600A87CAD /* LaunchScreen.xib in Resources */,
+				3FE6C27D1AEA534C00A87CAD /* IMG_0560.png in Resources */,
 				3FE6C2641AEA500600A87CAD /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
