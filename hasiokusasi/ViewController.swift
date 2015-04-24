@@ -59,6 +59,7 @@ class ViewController: UIViewController {
             label.text = String("臭すぎて死ぬ")
         }
     }
+    
 
 
 
